@@ -1,0 +1,22 @@
+body{
+    background-image: url(images/bg4.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+.bcolor{
+    background-color: rgba(228, 228, 228, 0.918);
+    border: 2px solid rgba(228, 228, 228, 0.918) ;
+    border-radius: 2;
+    height: 100%;
+}
+
+
+.ymage{
+    height: 70%;
+}
+
+#spinner{
+    display:none;
+
+}
